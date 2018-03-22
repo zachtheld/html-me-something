@@ -1,9 +1,25 @@
 
 img {
-    height: 45%;
-    width: 45%;
+    width: 45%;  
 }
-#trans {
-    height: 34%;
-    width: 34%;
+#special_image {
+    width: 34%;    
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: gray;
+    text-decoration: none;
+}
+p {
+    margin: 0px 20px;
+}
+.event {
+    text-decoration: underline;
+
+}
+header {
+    text-align: center;
 }
