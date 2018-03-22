@@ -1,7 +1,9 @@
-body {
-    line-height: 1px;
+
+img {
+    height: 45%;
+    width: 45%;
 }
-image {
-    height: 50%;
-    width: 50%;
+#trans {
+    height: 34%;
+    width: 34%;
 }
