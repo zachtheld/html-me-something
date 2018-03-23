@@ -28,3 +28,7 @@ article {
 header {
     text-align: center;
 }
+#foot {
+    color: blue;
+    font-family: serif;
+}
